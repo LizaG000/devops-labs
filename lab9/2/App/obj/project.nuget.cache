@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qmtgS5kXVw=",
+  "success": true,
+  "projectFilePath": "/home/liza/Projects/devops-labs/lab9/2/App/App.csproj",
+  "expectedPackageFiles": [
+    "/home/liza/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
